@@ -1,0 +1,16 @@
+{
+    "name": "drupal/twig_roman_arabic",
+    "description": "A Twig extension for converting roman to arabic numerals and vice-versa.",
+    "type": "drupal-module",
+    "authors": [
+      {
+        "name": "Fernando Pap",
+        "role": "Maintainer"
+      }
+    ],
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+      "emilmassey/twig-roman-numerals": "^1.0.0"
+    }
+}
