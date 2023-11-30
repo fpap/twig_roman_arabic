@@ -1,0 +1,4 @@
+name: Twig Roman Arabic
+description: 'This module allows you to convert roman to arabic numerals and vice-versa, in twig templates.'
+type: module
+core_version_requirement: ^9 || ^10
