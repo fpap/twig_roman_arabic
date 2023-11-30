@@ -1,0 +1,5 @@
+services:
+    twig_roman_arabic.roman_numerals:
+        class: EmilMassey\Twig\RomanNumerals\RomanNumeralsExtension
+        tags:
+            - { name: twig.extension }
